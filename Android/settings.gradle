@@ -1,0 +1,2 @@
+include ':app', ':Autobahn'
+project(':Autobahn').projectDir = new File('AutobahnAndroid/Autobahn')

@@ -1,0 +1,3 @@
+[submodule "Android/AutobahnAndroid"]
+	path = Android/AutobahnAndroid
+	url = git@github.com:saiimons/AutobahnAndroid.git
